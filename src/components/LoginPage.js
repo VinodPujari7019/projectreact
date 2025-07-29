@@ -4,6 +4,7 @@ const LoginPage = () => {
     return (
         <div className="login">
             <h1> Welcome to my first project</h1>
+            <h2> Have a great day</h2>
         </div>
     )
 
